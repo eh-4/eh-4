@@ -3,9 +3,9 @@ who is looking for employment in robotics and automation, applicable to many ind
 I am experienced in the development of intelligent systems including artificial 
 intelligence, advanced computer vision, kinematics, and mechanical design.
 
-The public part of this repository contains a few samples of my work to date. I am in the 
-process of adding my previous work to this public repository so feel free to ask about my 
-other work and I'll be glad to prioritize adding those for you to see!
+This repository is intended to contain samples from my robotics and automation programming 
+experience. I am still in the process of adding files so if you are interested in a specific 
+part of my work let me know and I'll be glad to prioritize that first.
 
 Here's a quick look at my acheivements over the last few years:
  - 2016-2021 Concurently to my education, I started up Good Racks LLC, a company leveraging 
